@@ -14,7 +14,7 @@ This is a real-time chat application built using:
 
 ```
 chat-app/
-├── Chat_app_Backend/        # .NET SignalR API
+├── ChatApp_Backend/        # .NET SignalR API
 ├── chat_application_frontend/       # React App
 ```
 
